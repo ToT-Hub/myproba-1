@@ -1,0 +1,74 @@
+.module_top,
+.module_bottom
+{
+    visibility: hidden;
+}
+
+.table
+{
+    top: 20px;
+    bottom: 20px;
+
+    display: flex;
+
+    width: 100px;
+    width: auto;
+    height: 10px;
+    padding: 20px;
+
+    border: 0 !important;
+}
+
+
+.module_content img
+{
+    min-width: 70px;
+}
+
+.module_content h2
+{
+    font-size: 30px;
+}
+
+
+.cls_style_border
+{
+    float: left;
+
+    width: 200px;
+    padding: 5px;
+    padding-right: 20px;
+
+    counter-reset: 3px;
+
+    border: solid 1px black;
+    background: #ffff00;
+
+    direction: ltr;
+}
+
+.my_cls
+{
+    background: #4e56f3;
+}
+
+.my_cls
+{
+    background: #ff1200;
+}
+
+.my_cls
+{
+    background: #f69;
+}
+
+.cl1
+{
+    top: 0;
+    bottom: 0;
+
+    width: 150px;
+    height: 50px;
+
+    background: #30ff00;
+}
